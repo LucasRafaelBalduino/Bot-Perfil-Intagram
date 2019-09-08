@@ -1,0 +1,11 @@
+C:\wp-c#\Bot.Intagram.Profile\bin\Debug\netcoreapp2.1\Bot.Intagram.Profile.deps.json
+C:\wp-c#\Bot.Intagram.Profile\bin\Debug\netcoreapp2.1\Bot.Intagram.Profile.runtimeconfig.json
+C:\wp-c#\Bot.Intagram.Profile\bin\Debug\netcoreapp2.1\Bot.Intagram.Profile.runtimeconfig.dev.json
+C:\wp-c#\Bot.Intagram.Profile\bin\Debug\netcoreapp2.1\Bot.Intagram.Profile.dll
+C:\wp-c#\Bot.Intagram.Profile\bin\Debug\netcoreapp2.1\Bot.Intagram.Profile.pdb
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.csprojAssemblyReference.cache
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.csproj.CoreCompileInputs.cache
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.AssemblyInfoInputs.cache
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.AssemblyInfo.cs
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.dll
+C:\wp-c#\Bot.Intagram.Profile\obj\Debug\netcoreapp2.1\Bot.Intagram.Profile.pdb
